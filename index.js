@@ -19,7 +19,7 @@ let from;
 const webhook = new WebhookClient({
     channel: {
         url: 'https://idcs-oda-3c0156114a044dd09a61dfa73a88efa2-da3.data.digitalassistant.oci.oraclecloud.com/connectors/v2/listeners/webhook/channels/9a727757-51c0-475a-ad9b-eee0bc47eb80',
-        secret: 'huDvtUX2t4SUz58wWyAKwHZcbtxbuswV'
+        secret: 'QBEt7YurHQ7UTZCKlm1UAYQVMVoKIvbd'
     }
 });
 
