@@ -33,8 +33,8 @@ process.on('uncaughtException', (error) => {
 // Configuración del webhook de Oracle
 const webhook = new WebhookClient({
     channel: {
-        url: 'https://idcs-oda-3c0156114a044dd09a61dfa73a88efa2-da3.data.digitalassistant.oci.oraclecloud.com/connectors/v2/listeners/webhook/channels/ff73fefe-657c-48db-b39c-dcef050b461b',
-        secret: 'xkZ1tXmYlp0tDjEQUQatIftmembPd5BR'
+        url: 'https://idcs-oda-7d52b071bf824e7daca8dbba74a7dce7-da3.data.digitalassistant.oci.oraclecloud.com/connectors/v2/listeners/webhook/channels/8ec02b12-bb24-4a89-b973-93985b963b37',
+        secret: 'qwIuHj1N9xs8L454uehE8iTBtRIxS870'
     }
 });
 
